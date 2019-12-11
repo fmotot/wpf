@@ -6,8 +6,8 @@
         xmlns:local="clr-namespace:Wpf"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        <Button FontWeight="Bold">
+    <Grid Name="grid">
+        <Button FontWeight="Bold" Width="120" Height="25" Name="btn">
             <WrapPanel>
                 <TextBlock Foreground="Blue">Multi</TextBlock>
                 <TextBlock Foreground="Red">Color</TextBlock>

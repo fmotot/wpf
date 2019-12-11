@@ -23,6 +23,32 @@ namespace Wpf
         public MainWindow()
         {
             InitializeComponent();
+
+            Button btn2 = new Button();
+            btn2.FontWeight = FontWeights.Bold;
+            btn2.HorizontalAlignment = HorizontalAlignment.Left;
+            btn2.VerticalAlignment = VerticalAlignment.Bottom;
+            btn2.Width = 120;
+            btn2.Height = 25;
+
+            WrapPanel pnl = new WrapPanel();
+            
+            TextBlock txt = new TextBlock();
+            txt.Text = "Multi";
+            txt.Foreground = Brushes.Blue;
+            pnl.Children.Add(txt);
+
+            txt = new TextBlock();
+            txt.Text = "Color";
+            txt.Foreground = Brushes.Red;
+            pnl.Children.Add(txt);
+
+            txt = new TextBlock();
+            txt.Text = "Button2";
+            pnl.Children.Add(txt);
+
+            btn2.Content = pnl;
+            grid.Children.Add(btn2);
         }
     }
 }
