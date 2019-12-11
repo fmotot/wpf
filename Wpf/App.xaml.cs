@@ -21,6 +21,9 @@ namespace Wpf
             // Do stuff here, e.g. to the window
             wnd.Title = "Something else";
 
+            if (e.Args.Length == 1)
+                MessageBox.Show("Now displaying arg : \n\n" + e.Args[0]);
+
             // Show the window
             wnd.Show();
         }
