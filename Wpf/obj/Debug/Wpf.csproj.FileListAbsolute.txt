@@ -1,0 +1,15 @@
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\bin\Debug\Wpf.exe.config
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\bin\Debug\Wpf.exe
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\bin\Debug\Wpf.pdb
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\MainWindow.g.cs
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\App.g.cs
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\MainWindow.baml
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\Wpf.g.resources
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\Wpf.csproj.GenerateResource.Cache
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\Wpf.exe
+c:\users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\Wpf.pdb

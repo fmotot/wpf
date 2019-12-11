@@ -23,6 +23,18 @@ namespace Wpf
         public MainWindow()
         {
             InitializeComponent();
+            pnlMainGrid.MouseDown += pnlMainGrid_MouseDown;
+        }
+        
+
+        private void pnlMainGrid_MouseUp(object sender, MouseButtonEventArgs eventArgs)
+        {
+            MessageBox.Show("You clicked me at " + eventArgs.GetPosition(this).ToString());
+        }
+
+        private void pnlMainGrid_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            MessageBox.Show("Coucou");
         }
     }
 }
