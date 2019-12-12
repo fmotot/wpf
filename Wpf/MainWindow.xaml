@@ -7,6 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Label Content="US" Margin="2,2,473,272" />
+        <Label Content="DE" Margin="2,96,473,186" />
+        <Label Content="SE" Margin="2,53,473,229" />
+        <Label Content="Here" Margin="2,134,473,147" />
+        <Label Name="lblNumberUs" Content="0" Margin="49,2,256,272" />
+        <Label Name="lblNumberDe" Content="0" Margin="49,96,332,186"/>
+        <Label Name="lblNumberSe" Content="0" Margin="49,53,332,229"/>
+        <Label Name="lblNumber" Content="0" Margin="49,134,332,147" />
     </Grid>
 </Window>
