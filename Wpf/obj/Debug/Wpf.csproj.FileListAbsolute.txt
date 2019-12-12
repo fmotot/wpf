@@ -31,3 +31,4 @@ C:\Users\fmoto\source\repos\wpf\Wpf\obj\Debug\Wpf.Properties.Resources.resources
 C:\Users\fmoto\source\repos\wpf\Wpf\obj\Debug\Wpf.csproj.GenerateResource.cache
 C:\Users\fmoto\source\repos\wpf\Wpf\obj\Debug\Wpf.exe
 C:\Users\fmoto\source\repos\wpf\Wpf\obj\Debug\Wpf.pdb
+C:\Users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\App.baml
