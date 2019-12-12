@@ -23,5 +23,28 @@ namespace Wpf
         {
             InitializeComponent();
         }
+
+        private void TextBox_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+            TextBox textBox = sender as TextBox;
+            txtStatus.Text = "Selection starts at character #" + textBox.SelectionStart + Environment.NewLine;
+            txtStatus.Text += "Selection is " + textBox.SelectionLength + " character(s) long" + Environment.NewLine;
+            txtStatus.Text += "Selected text: '" + textBox.SelectedText + "'";
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            txtSelect.Focus();
+            txtSelect.SelectionLength = 3;
+            txtSelect.SelectionStart = 2;
+        }
+
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            txtSelect.Focus();
+            txtSelect.SelectionStart = 4;
+            txtSelect.SelectionLength = 0;
+            txtSelect.SelectedText = "Prout";
+        }
     }
 }
