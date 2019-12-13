@@ -1,0 +1,16 @@
+﻿<Window x:Class="Wpf.ImageControlWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf"
+        mc:Ignorable="d"
+        Title="ImageControlWindow" Height="300" Width="300">
+    <StackPanel>
+        <Image Source="/Wpf;component/Images/google.png" />
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Name="btnLoadFromFile" Click="btnLoadFromFile_Click">Load</Button>
+        </StackPanel>
+        <Image Name="imgDynamic" Margin="10"/>
+    </StackPanel>
+</Window>
