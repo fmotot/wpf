@@ -24,5 +24,29 @@ namespace Wpf
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Canvas window = new Canvas();
+            window.Show();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            WrapPanel window = new WrapPanel();
+            window.Show();
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            StackPanelWindow win = new StackPanelWindow();
+            win.Show();
+        }
+
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            DockPanelWindow win = new DockPanelWindow();
+            win.Show();
+        }
     }
 }

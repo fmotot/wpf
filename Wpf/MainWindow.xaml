@@ -6,7 +6,10 @@
         xmlns:local="clr-namespace:Wpf"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+    <StackPanel Margin="20">
+        <Button Click="Button_Click">Canvas</Button>
+        <Button Click="Button_Click_1">WrapPanel</Button>
+        <Button Click="Button_Click_2">StackPanel</Button>
+        <Button Click="Button_Click_3">DockPanel</Button>
+    </StackPanel>
 </Window>
