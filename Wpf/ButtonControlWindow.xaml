@@ -1,0 +1,22 @@
+﻿<Window x:Class="Wpf.ButtonControlWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf"
+        mc:Ignorable="d"
+        Title="ButtonControlWindow" Height="300" Width="300">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Padding" Value="5,2" />
+        </Style>
+    </Window.Resources>
+    <WrapPanel>
+        <Button Click="Button_Click">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="/Images/icons8-emu4ios-50.png" Height="20"/>
+                <TextBlock Margin="5,0">Hello, <Bold>big</Bold> world!</TextBlock>
+            </StackPanel>
+        </Button>
+    </WrapPanel>
+</Window>
