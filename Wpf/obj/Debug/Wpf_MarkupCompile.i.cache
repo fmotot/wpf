@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-c:\users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\
+C:\Users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\
 Wpf
 none
 false
 DEBUG;TRACE
-c:\users\stagiaire-dev\source\repos\Wpf\Wpf\App.xaml
-11151548125
+C:\Users\stagiaire-dev\source\repos\Wpf\Wpf\App.xaml
+21395442593
 
-91696885266
+10639354077
 131569487696
-MainWindow.xaml;
+MainWindow.xaml;TextFormattingModeWindow.xaml;
 
-True
+False
 
