@@ -2,4 +2,6 @@
 # Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/Wpf/v15
+/.vs
+/Wpf/bin
+/Wpf/obj
