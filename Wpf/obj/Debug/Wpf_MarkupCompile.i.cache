@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\stagiaire-dev\source\repos\Wpf\Wpf\obj\Debug\
+C:\Users\fmoto\Source\Repos\wpf\Wpf\obj\Debug\
 Wpf
 none
 false
 DEBUG;TRACE
-C:\Users\stagiaire-dev\source\repos\Wpf\Wpf\App.xaml
-5422703990
+C:\Users\fmoto\Source\Repos\wpf\Wpf\App.xaml
+11-2002183552
 
-13-480252631
+16455251034
 131569487696
-Canvas.xaml;DockPanelWindow.xaml;MainWindow.xaml;StackPanelWindow.xaml;WrapPanel.xaml;
+Canvas.xaml;DockPanelWindow.xaml;Grid2Window.xaml;Grid3Window.xaml;Grid4Window.xaml;Grid5Window.xaml;Grid6Window.xaml;GridWindow.xaml;MainWindow.xaml;StackPanelWindow.xaml;WrapPanel.xaml;
 
 True
 

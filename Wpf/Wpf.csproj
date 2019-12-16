@@ -57,6 +57,24 @@
     <Compile Include="DockPanelWindow.xaml.cs">
       <DependentUpon>DockPanelWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Grid2Window.xaml.cs">
+      <DependentUpon>Grid2Window.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Grid3Window.xaml.cs">
+      <DependentUpon>Grid3Window.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Grid4Window.xaml.cs">
+      <DependentUpon>Grid4Window.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Grid5Window.xaml.cs">
+      <DependentUpon>Grid5Window.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Grid6Window.xaml.cs">
+      <DependentUpon>Grid6Window.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GridWindow.xaml.cs">
+      <DependentUpon>GridWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="StackPanelWindow.xaml.cs">
       <DependentUpon>StackPanelWindow.xaml</DependentUpon>
     </Compile>
@@ -68,6 +86,30 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="DockPanelWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Grid2Window.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Grid3Window.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Grid4Window.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Grid5Window.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Grid6Window.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GridWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

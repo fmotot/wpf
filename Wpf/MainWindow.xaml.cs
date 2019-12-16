@@ -48,5 +48,41 @@ namespace Wpf
             DockPanelWindow win = new DockPanelWindow();
             win.Show();
         }
+
+        private void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            GridWindow win = new GridWindow();
+            win.Show();
+        }
+
+        private void Button_Click_5(object sender, RoutedEventArgs e)
+        {
+            Grid2Window win = new Grid2Window();
+            win.Show();
+        }
+
+        private void Button_Click_6(object sender, RoutedEventArgs e)
+        {
+            Grid3Window win = new Grid3Window();
+            win.Show();
+        }
+
+        private void Button_Click_7(object sender, RoutedEventArgs e)
+        {
+            Grid4Window win = new Grid4Window();
+            win.Show();
+        }
+
+        private void Button_Click_8(object sender, RoutedEventArgs e)
+        {
+            Grid5Window win = new Grid5Window();
+            win.Show();
+        }
+
+        private void Button_Click_9(object sender, RoutedEventArgs e)
+        {
+            Grid6Window win = new Grid6Window();
+            win.Show();
+        }
     }
 }

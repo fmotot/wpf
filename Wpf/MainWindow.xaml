@@ -11,5 +11,11 @@
         <Button Click="Button_Click_1">WrapPanel</Button>
         <Button Click="Button_Click_2">StackPanel</Button>
         <Button Click="Button_Click_3">DockPanel</Button>
+        <Button Click="Button_Click_4">Grid</Button>
+        <Button Click="Button_Click_5">Grid 2</Button>
+        <Button Click="Button_Click_6">Grid 3</Button>
+        <Button Click="Button_Click_7">Grid 4</Button>
+        <Button Click="Button_Click_8">Grid 5</Button>
+        <Button Click="Button_Click_9">Grid 6</Button>
     </StackPanel>
 </Window>
