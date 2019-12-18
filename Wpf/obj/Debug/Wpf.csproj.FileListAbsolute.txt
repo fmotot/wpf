@@ -12,3 +12,7 @@ C:\Users\fmoto\Source\Repos\wpf\Wpf\obj\Debug\Wpf.Properties.Resources.resources
 C:\Users\fmoto\Source\Repos\wpf\Wpf\obj\Debug\Wpf.csproj.GenerateResource.cache
 C:\Users\fmoto\Source\Repos\wpf\Wpf\obj\Debug\Wpf.exe
 C:\Users\fmoto\Source\Repos\wpf\Wpf\obj\Debug\Wpf.pdb
+C:\Users\fmoto\Source\Repos\wpf\Wpf\obj\Debug\DataContextSample.g.cs
+C:\Users\fmoto\Source\Repos\wpf\Wpf\obj\Debug\DataContextSample.baml
+C:\Users\fmoto\Source\Repos\wpf\Wpf\obj\Debug\CodeBehindBindingSample.g.cs
+C:\Users\fmoto\Source\Repos\wpf\Wpf\obj\Debug\CodeBehindBindingSample.baml
